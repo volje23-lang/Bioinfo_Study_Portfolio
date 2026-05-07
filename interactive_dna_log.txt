@@ -1,0 +1,14 @@
+
+[Interactive Session Analysis]
+Input Seq : ATTGCGGTAGGGCCG
+Length    : 15
+GC Content: 66.67%
+Result: [GC-rich] High binding affinity
+-----------------------------------
+
+[Interactive Session Analysis]
+Input Seq : ATTGCGTTAAATGCC
+Length    : 15
+GC Content: 40.00%
+Result: [Normal] Stable region
+-----------------------------------
