@@ -1,8 +1,6 @@
 # ==========================================
 # Project: GEO-style Immune Expression Analysis
-# Goal:
-# Compare simple immune gene expression patterns
-# between healthy and inflammatory conditions
+# Goal: Compare immune gene expression  between healthy and inflammatory conditions
 # Author: Jaewon Kim
 # ==========================================
 
