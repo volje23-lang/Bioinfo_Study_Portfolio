@@ -1,0 +1,5 @@
+gene,expression,category
+IL6,52,pro-inflammatory
+TNF,48,pro-inflammatory
+IFNG,61,pro-inflammatory
+CXCL8,55,chemokine

@@ -1,0 +1,8 @@
+gene,expression,category
+IL6,52,pro-inflammatory
+TNF,48,pro-inflammatory
+IFNG,61,pro-inflammatory
+IL10,25,anti-inflammatory
+TGFB1,30,regulatory
+CXCL8,55,chemokine
+IL2,36,T-cell activation

@@ -1,4 +1,4 @@
---- 분석 결과 ---
+--- Analysis Result ---
  GGCCCGGGGCGCGCGGCCGCG | length: 21 | GC: 100.00%
  ATAAAATATTTTTATATATTA | length: 21 | GC: 0.00%
  ATGCCGTACGTAGCTAGCTAG | length: 21 | GC: 52.38%
