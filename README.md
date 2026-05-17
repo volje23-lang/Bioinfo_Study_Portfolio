@@ -143,12 +143,5 @@ Compared log2 fold change values between healthy and inflammatory conditions.
 - Basic immune-related data interpretation
 
 ## Future Roadmap
-- Analyze larger immune-related datasets
-- Continue studying transcriptomics and RNA-seq workflows
-- Learn basic statistical methods for expression comparison
-- Study immune checkpoint and T-cell marker genes
-- Practice interpreting immune expression patterns
-- Explore additional biological data visualization methods
-
-Studying immunology and bioinformatics
-through small-scale Python-based data analysis projects.
+Currently exploring RNA-seq workflows and basic statistical methods for expression analysis. Next step is working with larger public datasets and digging into T-cell and immune checkpoint markers.
+.
