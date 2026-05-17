@@ -65,10 +65,7 @@ compared to other immune marker genes.
 
 #### Biological Note
 
-Most immune marker genes showed higher expression in the treated condition.
-
-IFNG and TNF showed higher expression
-compared to the control condition.
+Most immune-related genes were up-regulated in the treated condition, with TNF and FOXP3 showing relatively strong expression changes.
 
 ### 7. Cytokine Summary Analysis
 - Summarize cytokine expression values
