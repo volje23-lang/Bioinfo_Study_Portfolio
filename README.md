@@ -90,7 +90,7 @@ above the dataset average.
 
 #### Biological Note
 
-IFNG, TNF, and IL6 showed relatively high expression in Sample_C,
+IFNG, IL6, and TNF showed relatively high expression in Sample_C,
 while IL10 expression remained more stable across samples.
 
 Compared expression patterns between immune-related genes using heatmap visualization.
