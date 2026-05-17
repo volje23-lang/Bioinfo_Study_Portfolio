@@ -121,7 +121,7 @@ Counted ATG motifs and compared simple sequence pattern differences across sampl
 
 #### Biological Note
 
-IFNG, TNF, and IL6 showed increased expression
+IL6, IFNG, and TNF showed increased expression
 in the inflammatory condition.
 
 Compared log2 fold change values between healthy and inflammatory conditions.
