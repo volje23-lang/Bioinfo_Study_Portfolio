@@ -144,4 +144,4 @@ Compared log2 fold change values between healthy and inflammatory conditions.
 
 ## Future Roadmap
 Currently exploring RNA-seq workflows and basic statistical methods for expression analysis. Next step is working with larger public datasets and digging into T-cell and immune checkpoint markers.
-.
+
