@@ -10,7 +10,7 @@ filename = "sample.fasta"
 with open(filename, "r") as file:
     lines = file.readlines()
 
-# FASTA 형식 한 줄씩 처리
+# FASTA 형식 한 줄씩 처리(parsing)
 for line in lines:
 
     line = line.strip()
